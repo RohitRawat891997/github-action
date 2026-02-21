@@ -14,7 +14,7 @@ Variables ka use hota hai:
 ✅ Secure automation
 ✅ Dynamic pipelines
 
-3 main types jo tumne pooche:
+3 main types:
 
 1️⃣ Workflow variables (single workflow scope)
 2️⃣ Configuration variables (multiple workflows/global)
