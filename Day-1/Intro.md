@@ -9,13 +9,13 @@
 # ⚙️ Easy Definition
 
 **GitHub Actions** ek feature hai GitHub ka jisse tum:
-
+```
 ✅ Code build kar sakte ho
 ✅ Automated testing run kar sakte ho
 ✅ Docker image bana sakte ho
 ✅ Server ya Kubernetes pe deploy kar sakte ho
 ✅ Security scans automate kar sakte ho
-
+```
 Matlab:
 
 > Developer code push kare ➜ pipeline khud chal jaye.
