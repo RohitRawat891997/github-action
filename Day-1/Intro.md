@@ -6,7 +6,7 @@
 
 ---
 
-# ⚙️ Easy Hinglish Definition
+# ⚙️ Easy Definition
 
 **GitHub Actions** ek feature hai GitHub ka jisse tum:
 
@@ -23,13 +23,13 @@ Matlab:
 ---
 
 # 🧠 Real Flow (Step-by-step)
-
+```
 1️⃣ Developer repo me code push karta hai
 2️⃣ GitHub event detect karta hai
 3️⃣ Workflow start hota hai
 4️⃣ Jobs & Actions run hote hain
 5️⃣ Runner machine pe commands execute hoti hain
-
+```
 ---
 
 # 🔥 Real Example
